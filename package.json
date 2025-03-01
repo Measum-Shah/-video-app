@@ -1,0 +1,27 @@
+{
+  "name": "backend-aur-chai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Measum-Shah/-video-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Measum-Shah/-video-app/issues"
+  },
+  "homepage": "https://github.com/Measum-Shah/-video-app#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.11.0",
+    "prettier": "^3.5.2"
+  }
+}
